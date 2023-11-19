@@ -1,0 +1,148 @@
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@10..48,300&family=Preahvihear&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Amatic+SC&family=Caveat&display=swap');
+body {
+	/*background: #FFF4E1;*/
+	background: #D8BFD8;
+	margin:0 0;
+	
+}
+.font1{
+	font-family: 'Dancing Script', cursive;
+	font-weight: bold;
+}
+.font2{
+	font-family: 'Pacifico', cursive;
+}
+.font3{
+	font-family: 'Caveat', cursive;
+}
+.font4{
+	font-family: 'Amatic SC', sans-serif;
+}
+.font5{
+	font-family: 'Preahvihear', sans-serif;
+}
+
+.letralila{
+	color: #c971e0;
+}
+.letraoscura {
+	color: #26102b;
+}
+.dorado {
+	color: #E8B34B;
+}
+.letrablanca{
+	color:fff;
+}
+.letraazul{
+	color: #0A497B;
+}
+
+.encabezado{
+	width: 70%;
+	height: 70%;
+	margin-top: 5vw;
+	margin-bottom: 5vw;
+	transition: 1s;
+}
+header{
+	background: src('./img/header.jpg');
+}
+.img {
+	width: 100%;
+}
+.margentop{
+	margin-top: 2em;
+	margin-bottom: 2em;
+}
+.margentop2{
+	margin-top: 2em;
+}
+.margentop3{
+	margin-top: 1em;
+}
+
+
+.fondo{
+	background-image: url('./img/portada2.jpg');
+	background-size: 100%;
+	color: white;
+	padding: 1.5em 3em 0 3em;
+	background-attachment: fixed;
+}
+.fondo h3 {
+	font-family: 'Pacifico', cursive;
+}
+.margenlateral{
+	margin: 0 10%;
+}
+
+.fuente2{
+	color: #26102b;
+	
+}
+.borde{
+	border: 1px solid black; padding: 1em 0;
+}
+.fondo2{
+	background-image: url('./img/contacto.jpg');
+	background-size: 100%;
+	color: white;
+	padding: 3em;
+	font-family: 'Pacifico', cursive;
+	background-attachment: fixed;
+}
+.fondo3{
+	background-image: url('./img/hoja.png');
+	background-size: 100% 100%;
+}
+.fondo4{
+	background-image: url('./img/hoja2.png');
+	background-size: 100% 100%;
+}
+.whats{
+	width: 80px;
+}
+h1{
+	font-size: 80px;
+}
+.lila{
+	background: #D8BFD8;
+}
+
+.audio {
+	width:40%;
+	height:50px;
+}
+.alineado{
+	width:30%;s
+}
+.paddingtop{
+	padding:2em 0 0 0;
+}
+.paddingbottom{
+	padding: 0 0 2em 0;
+}
+.paddingbottom2{
+	padding: 0 0 4em 0;
+}
+.margencontenedores{
+	margin:5%;
+	width:90%;
+}
+.margencontenedores2{
+	margin: 0 25% ;
+	width:50%;
+}
+.margencontenedores3{
+	width:150px;
+	height:150px;
+}
+.boton{
+	padding: .5em 1.5em;
+}
